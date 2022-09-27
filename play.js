@@ -6,4 +6,5 @@ console.log("Connecting ...");
 let con = connect();
 
 
-setupInput();
+
+setupInput(con);
